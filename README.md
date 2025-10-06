@@ -15,17 +15,7 @@ This dashboard provides a comprehensive visualization of ecommerce sales perform
 
 ---
 
-## 🗺️ **Sales by State**
- - Top 5 sales by state
-| State           | Sales Amount |
-|----------------|--------------|
-| Maharashtra     | ₹176K        |
-| Madhya Pradesh  | ₹91K         |
-| Delhi           | ₹84K         |
-| Tamil Nadu      | ₹48K         |
-| Uttar Pradesh   | ₹39K         |
 
----
 
 ## 🛍️ **Quantity by Product Category**
 #### Pie chart showing percentage distribution of quantity sold:
